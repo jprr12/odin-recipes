@@ -1,2 +1,2 @@
 # odin-recipes
-- this is a recipe website that only uses html
+- this is a recipe website project from The Odin Project
