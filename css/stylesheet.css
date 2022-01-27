@@ -1,10 +1,32 @@
-.top,
-.main{
+.top,.main{
     text-align: center;
 }
+
 .homeimg{
     height: 240px;
 }
+
 h1{
     text-transform: uppercase;
+}
+
+h2{
+    font-size: 1.6em;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.dish{
+    height: 360px;
+    width: 420px;
+}
+
+.content{
+    text-align: left;
+}
+
+.ul,.content{
+    font-size: 1.1em;
 }
